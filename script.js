@@ -92,3 +92,6 @@ for (i = 1; i <= 25; i++){
         console.log(i);
     }
 }
+
+// Add an extra comment at the bottom
+// IT'S CHICKEN TIME
